@@ -1,6 +1,6 @@
 {
   "name": "@atomic-app/map-obj",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Browser-friendly fork of sindresorhus/map-obj",
   "license": "MIT",
   "repository": {
@@ -19,9 +19,6 @@
     "build": "babel --presets env --plugins transform-runtime index.js -d lib",
     "prepublish": "npm run build"
   },
-  "files": [
-    "index.js"
-  ],
   "keywords": [
     "map",
     "obj",
