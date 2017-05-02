@@ -1,6 +1,8 @@
-# map-obj [![Build Status](https://travis-ci.org/sindresorhus/map-obj.svg?branch=master)](https://travis-ci.org/sindresorhus/map-obj)
+# map-obj [![Build Status](https://travis-ci.org/atomic-app/map-obj.svg)](https://travis-ci.org/atomic-app/map-obj)
 
 > Map object keys and values into a new object
+
+**Note:** This is a browser-friendly fork of [sindresorhus/map-obj](https://github.com/sindresorhus/map-obj).
 
 
 ## Install
