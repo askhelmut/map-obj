@@ -1,13 +1,15 @@
 {
   "name": "@atomic-app/map-obj",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Browser-friendly fork of sindresorhus/map-obj",
   "license": "MIT",
-  "repository": "sindresorhus/map-obj",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/atomic-app/map-obj.git"
+  },
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "Tane Morgan",
+    "url": "http://github.com/tanem"
   },
   "engines": {
     "node": ">=4"
